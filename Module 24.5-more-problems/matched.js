@@ -18,4 +18,5 @@ function matchedProduct(products, search){
     return matched;
 }
 const result = matchedProduct(products, "phone");
+
 console.log(result);
