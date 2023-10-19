@@ -8,4 +8,4 @@ let data = {
   location: [{ country: "bangladesh", city: "Dhaka" }]
 };
 
-console.log(data.location[0].city);
+console.log(data.location[0].country);
